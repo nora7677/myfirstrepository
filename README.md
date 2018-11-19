@@ -15,4 +15,6 @@ This is my pull
 
 This is a mistake
 
+This is a null
+
 This is an Object
