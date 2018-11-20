@@ -24,3 +24,5 @@ This is my choice
 This is my way
 
 This is what sayhello changed
+
+This is what master changed
